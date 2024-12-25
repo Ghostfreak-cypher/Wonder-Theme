@@ -4,6 +4,8 @@ import LandingPage from "./Home/LandingPage";
 import Mobile from "./Home/Mobile";
 import MobileFirstTheme from "./Home/MobileFirstTheme";
 import HealthAndBeauty from "./Home/HealthAndBeauty";
+import FashionStore from "./Home/FashionStore";
+
 function App() {
   return (
     <div className="overflow-hidden">
@@ -12,6 +14,7 @@ function App() {
       <Mobile />
       <MobileFirstTheme />
       <HealthAndBeauty />
+      <FashionStore />
     </div>
   );
 }
