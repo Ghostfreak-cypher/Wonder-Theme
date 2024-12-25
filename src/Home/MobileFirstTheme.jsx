@@ -3,7 +3,7 @@ import React from "react";
 function MobileFirstTheme() {
   return (
     <div className="MobileFirstTheme flex flex-col justify-center align-center font-['satoshi'] items-center mt-60 ">
-      <h1 className="Text text-[21px] text-zinc-500 font-thin  text-black">
+      <h1 className="Text text-[21px] text-zinc-500 font-thin  ">
         Mobile First Theme - Shopify 2.0
       </h1>
       <div className="heading mt-[5px] mr-[10px]">

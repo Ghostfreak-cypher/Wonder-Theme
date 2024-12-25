@@ -5,7 +5,7 @@ function HealthAndBeauty() {
     <div className="w-full  h-[730px] bg-red-500 ">
       <div className=" Tablet-container leading-none pl-20 w-1/2 h-full ">
         <div className="MobileFirstTheme flex flex-col  align-center font-['satoshi'] items-center mt-60 ">
-          <h1 className="Text text-[25px] text-sans mr-[500px] ml-[20px] text-zinc-500 font-thin  mt-32 text-black">
+          <h1 className="Text text-[25px] text-sans mr-[500px] ml-[20px] text-zinc-500 font-thin  mt-32 ">
             Wonder Beauty
           </h1>
           <div className="heading mt-[20px] mr-[280px]">
