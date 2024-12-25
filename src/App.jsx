@@ -5,6 +5,7 @@ import Mobile from "./Home/Mobile";
 import MobileFirstTheme from "./Home/MobileFirstTheme";
 import HealthAndBeauty from "./Home/HealthAndBeauty";
 import FashionStore from "./Home/FashionStore";
+import WonderLiving from "./Home/WonderLiving";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <MobileFirstTheme />
       <HealthAndBeauty />
       <FashionStore />
+      <WonderLiving />
     </div>
   );
 }
