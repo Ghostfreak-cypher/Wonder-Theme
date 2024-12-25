@@ -2,7 +2,7 @@ import React from "react";
 
 function HealthAndBeauty() {
   return (
-    <div className="w-full  h-[730px] bg-red-500 ">
+    <div className="w-full  h-[730px] bg-[#E9F4ED] ">
       <div className=" Tablet-container leading-none pl-20 w-1/2 h-full ">
         <div className="MobileFirstTheme flex flex-col  align-center font-['satoshi'] items-center mt-60 ">
           <h1 className="Text text-[25px] text-sans mr-[500px] ml-[20px] text-zinc-500 font-thin  mt-32 ">
