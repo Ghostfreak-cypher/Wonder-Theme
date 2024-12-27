@@ -6,6 +6,8 @@ import MobileFirstTheme from "./Home/MobileFirstTheme";
 import HealthAndBeauty from "./Home/HealthAndBeauty";
 import FashionStore from "./Home/FashionStore";
 import WonderLiving from "./Home/WonderLiving";
+import Discover_Wonder_theme from "./Home/Discover_Wonder_theme";
+import Featured from "./Home/Featured";
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
       <HealthAndBeauty />
       <FashionStore />
       <WonderLiving />
+      <Discover_Wonder_theme />
+      <Featured />
     </div>
   );
 }
